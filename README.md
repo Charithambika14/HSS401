@@ -4,5 +4,6 @@ In this course, I have developed self-awareness, self-confidence, presentation s
 Here for each week, I have written a Activity Logs in which it contain what I have learnt for that week.
 
 For individual project, I have selected a book called **Soft skills: Skills not taught in schools** by Dr.B.V.R.Pattiabhiram. 
-I have written a IP report which contain explaination of some soft skills and how I improved, developed, and some examples where I used. I made a youtude video explaning all
-href{https://youtu.be/p4uPXzKgroc}{https://youtu.be/p4uPXzKgroc}
+I have written a IP report which contain explaination of some soft skills and how I improved, developed, and some examples where I used. I made a youtude video explaning all.
+
+https://youtu.be/p4uPXzKgroc
